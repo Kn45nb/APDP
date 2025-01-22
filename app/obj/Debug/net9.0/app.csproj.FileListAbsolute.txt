@@ -1,0 +1,15 @@
+E:\GIT\APDP\app\bin\Debug\net9.0\app.exe
+E:\GIT\APDP\app\bin\Debug\net9.0\app.deps.json
+E:\GIT\APDP\app\bin\Debug\net9.0\app.runtimeconfig.json
+E:\GIT\APDP\app\bin\Debug\net9.0\app.dll
+E:\GIT\APDP\app\bin\Debug\net9.0\app.pdb
+E:\GIT\APDP\app\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\APDP\app\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+E:\GIT\APDP\app\obj\Debug\net9.0\app.AssemblyInfo.cs
+E:\GIT\APDP\app\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+E:\GIT\APDP\app\obj\Debug\net9.0\app.sourcelink.json
+E:\GIT\APDP\app\obj\Debug\net9.0\app.dll
+E:\GIT\APDP\app\obj\Debug\net9.0\refint\app.dll
+E:\GIT\APDP\app\obj\Debug\net9.0\app.pdb
+E:\GIT\APDP\app\obj\Debug\net9.0\app.genruntimeconfig.cache
+E:\GIT\APDP\app\obj\Debug\net9.0\ref\app.dll
