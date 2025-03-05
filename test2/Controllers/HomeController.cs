@@ -28,6 +28,7 @@ public class HomeController : Controller
         {
             _context.Add(inputData);
             await _context.SaveChangesAsync();
+            ViewBag.Message = "Data submitted successfully!";
             return RedirectToAction(nameof(Index));
         }
         return View("Index", inputData);

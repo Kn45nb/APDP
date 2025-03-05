@@ -4,6 +4,12 @@
 
 <div class="container mt-5">
     <h2 class="text-center">Form test2</h2>
+    @if (ViewBag.Message != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @ViewBag.Message
+        </div>
+    }
     <form method="post" action="/Home/Submit">
         <div class="mb-3">
             <label for="id" class="form-label">ID:</label>

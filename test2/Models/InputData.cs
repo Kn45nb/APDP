@@ -13,6 +13,6 @@ namespace test2.Models
 
         [Required]
         [StringLength(60, MinimumLength = 1)]
-        public string Text { get; set; }
+        public string Text { get; set; } = string.Empty;
     }
 }
