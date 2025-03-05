@@ -1,8 +1,18 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Input Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container mt-5">
+    <h2 class="text-center">Form test2</h2>
+    <form method="post" action="/Home/Submit">
+        <div class="mb-3">
+            <label for="id" class="form-label">ID:</label>
+            <input type="text" class="form-control" id="id" name="id" required>
+        </div>
+        <div class="mb-3">
+            <label for="text" class="form-label">Text:</label>
+            <textarea class="form-control" id="text" name="text" rows="4" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Send</button>
+    </form>
 </div>
